@@ -1,0 +1,54 @@
+animal,classification,"Covering
+What kind of body
+covering do they
+have?","Body heat
+Does their body heat
+come from inside or
+outside?","Breathing
+What body parts do
+they have to take in
+oxygen?","Birthing
+Do they lay eggs or
+have live young?","Milk
+Do the young drink
+milk from the mother?"
+frog,amphibian,smoothskin,outside,"lungs,skin",eggs,no
+toad,amphibian,smoothskin,outside,"lungs,skin",eggs,no
+salamander,amphibian,smoothskin,outside,"lungs,skin",eggs,no
+bullfrog,amphibian,smoothskin,outside,"lungs,skin",eggs,no
+newt,amphibian,smoothskin,outside,"lungs,skin",eggs,no
+dog,mammal,fur,inside,lungs,live,yes
+dolphin,mammal,smoothskin,inside,lungs,live,yes
+whale,mammal,smoothskin,inside,lungs,live,yes
+tiger,mammal,fur,inside,lungs,live,yes
+goat,mammal,fur,inside,lungs,live,yes
+rat,mammal,fur,inside,lungs,live,yes
+cat,mammal,fur,inside,lungs,live,yes
+lion,mammal,fur,inside,lungs,live,yes
+seagull,bird,feathers,inside,lungs,eggs,no
+dove,bird,feathers,inside,lungs,eggs,no
+sparrow,bird,feathers,inside,lungs,eggs,no
+parrot,bird,feathers,inside,lungs,eggs,no
+penguin,bird,feathers,inside,lungs,eggs,no
+eagle,bird,feathers,inside,lungs,eggs,no
+cockatoo,bird,feathers,inside,lungs,eggs,no
+owl,bird,feathers,inside,lungs,eggs,no
+pigeon,bird,feathers,inside,lungs,eggs,no
+flamingo,bird,feathers,inside,lungs,eggs,no
+ostrich,bird,feathers,inside,lungs,eggs,no
+goldfish,fish,scales,outside,gills,eggs,no
+tuna,fish,scales,outside,gills,eggs,no
+salmon,fish,scales,outside,gills,eggs,no
+cod,fish,scales,outside,gills,eggs,no
+bass,fish,scales,outside,gills,eggs,no
+stingray,fish,scales,outside,gills,eggs,no
+shark,fish,scales,outside,gills,eggs,no
+snake,reptile,scales,outside,lungs,eggs,no
+chameleon,reptile,scales,outside,lungs,eggs,no
+lizard,reptile,scales,outside,lungs,eggs,no
+snake,reptile,scales,outside,lungs,eggs,no
+iguana,reptile,scales,outside,lungs,eggs,no
+crocodile,reptile,scales,outside,lungs,eggs,no
+dinosaur,reptile,scales,outside,lungs,eggs,no
+turtle,reptile,scales,outside,lungs,eggs,no
+alligator,reptile,scales,outside,lungs,eggs,no
